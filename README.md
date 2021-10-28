@@ -22,5 +22,13 @@ googleMap : 구글 지도 가져옴/ 마커 찍어줌
 https://developers.google.com/maps/documentation/javascript/geolocation?hl=ko
 
 ### `state 관리`
-뭐썻더라
+redux 이용 <br/>
 
+## 사용한 라이브러리
+react-redux<br/>
+axios<br/>
+google-maps-react<br/>
+react-geocode<br/>
+react-goolge-maps<br/>
+react-icons<br/>
+sass
